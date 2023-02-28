@@ -1,0 +1,2 @@
+# AlgebraProject
+A JavaScript project
